@@ -8,3 +8,4 @@ CREATE TABLE players (
   games integer NOT NULL,
   points integer NOT NULL
 );
+
